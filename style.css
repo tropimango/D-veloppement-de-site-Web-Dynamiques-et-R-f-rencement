@@ -1,0 +1,246 @@
+@media screen and (min-width: 900px) {
+		.entete
+		{
+			background-color: coral;
+		}
+
+		.logo
+		{
+			margin-left: 500px;	
+		}
+
+		.spiderman
+		{
+			float: left;	
+		}
+
+		.ariane
+		{
+			word-spacing: 200px;
+			margin-left: 00px;
+			background-color: #C0C0C0;
+			border: 2px solid black;
+			border-radius: 10px;
+			text-align: center; 
+		}
+
+		.nav1 
+		{
+			margin-top:-1490px; 
+			border: 2px solid black;
+			border-radius: 10px;
+			width: 275px;
+			text-align: center;
+			background-color: #C0C0C0;
+		}
+
+		.nav2 
+		{
+			margin-top:-1930px; 
+			border: 2px solid black;
+			border-radius: 10px;
+			width: 275px;
+			text-align: center;
+			background-color: #C0C0C0;
+			height: 1425px;
+		}
+
+		.nav3 
+		{
+			margin-top:-5155px; 
+			border: 2px solid black;
+			border-radius: 10px;
+			width: 275px;
+			text-align: center;
+			background-color: #C0C0C0;
+		}
+
+
+		.main
+		{
+			background-color: #C0C0C0;
+			margin-left: 290px;
+			border-radius: 10px;
+			border: 2px solid black;
+			margin-top: 30px;
+			height: 2000px;
+		}
+
+		.Sam
+		{
+			width:250px;
+			margin-top: -600px;	
+			text-align : center;
+			margin-left: 300px;
+		}
+
+		.tobey
+		{
+			width:250px;
+			height:300px;	
+	
+		}
+
+		.acteur
+		{
+			margin-top: -50px;
+			width:0px;
+			height:75px;
+			display : flex;
+			text-align : center;
+			margin-left: 300px;
+				
+		}
+
+		.presentation
+		{
+			overflow : hidden;
+		}
+
+		.nom
+		{
+			margin-top: 100px;
+			margin-left: 600px;
+
+		}
+
+		dd
+		{
+			display : none ;
+		}
+}
+
+@media screen and (min-width: 200px) and (max-width: 640px) {
+	.nav2 
+	{
+		margin-top:-2200px; 
+		border: 1px solid black;
+		border-radius: 10px;
+		width: 90px;
+		background-color: #C0C0C0;
+	}
+
+	.image 
+	{
+		width:75px;
+		height: 125px;
+		margin-left: -35px;
+		 	
+	}
+
+
+	.entete
+	{
+		background-color: coral;
+	}
+
+	.imagelogo
+	{
+		width: 280px;
+		height: 200px;
+	}
+	.logo
+	{
+		margin-left: 10px;		
+	}
+
+	.spiderman
+	{
+		float: left;
+		margin-left: 30px;
+		width: 10px;	
+	}
+
+	.ariane
+	{
+		border: 1px solid black;
+		border-radius: 10px;
+		text-align: center;
+		word-spacing: 5px;
+		margin-left: 0px;
+		background-color: #C0C0C0;
+	}
+
+	.nav1 
+	{
+		margin-top:-1490px; 
+		border: 2px solid black;
+		border-radius: 10px;
+		width: 275px;
+		text-align: center;
+		background-color: #C0C0C0;
+	}
+
+
+	.nav3 
+	{
+		margin-top:-5155px; 
+		border: 2px solid black;
+		border-radius: 10px;
+		width: 275px;
+		text-align: center;
+		background-color: #C0C0C0;
+	}
+
+
+	.main
+	{
+		background-color: #C0C0C0;
+		margin-left: 95px;
+		margin-top: 10px;
+		border-radius: 5px;
+		border: 1px solid black;
+		width: 210px;
+		height: 2200px;
+	}
+
+	.Sam
+	{
+		width:50px;
+		margin-top: 600px;	
+		margin-left: 60px;
+		margin-top: 30px;
+	}
+
+	.tobey
+	{
+		width:50px;
+		height:60px;
+		margin-top: 200px;
+		margin-left: 60px;
+
+	}
+
+	.acteur
+	{
+		margin-left: 60px;
+		width:5px;
+		height:5px;
+		
+	}
+
+	.presentation
+	{
+		overflow : hidden;
+	}
+
+	.nom
+	{
+		margin-top: 1500px;
+		margin-left: 100px;
+	}
+
+	.reali
+	{
+		margin-top: 550px;
+	}
+
+	.text
+	{
+		margin-left: -30px;
+		text-align:right;
+		
+	}
+
+
+}
